@@ -2,4 +2,5 @@
 premier essai avec git
 Démo de git qui se passe bien
 
-Modification depui Github
+Modification depuis Github
+Mais aussi depuis ma machine locale
